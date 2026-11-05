@@ -1,0 +1,6 @@
+{
+  "name": "WorkDay - Business Days & Working Days Calculator",
+  "description": "Professional business days calculator to compute working days, calendar days, weekends, and holidays between dates or project target deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
