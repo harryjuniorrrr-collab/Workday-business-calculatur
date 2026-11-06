@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monumental-rabanadas-a9cb79.netlify.app/sitemap.xml
